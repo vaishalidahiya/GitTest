@@ -6,3 +6,6 @@ welcome to git..
 
 change: login feature
 change : bug fixing...
+
+
+change : from team mate from remote repo
