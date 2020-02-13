@@ -6,3 +6,5 @@ welcome to git..
 
 change: login feature
 change : bug fixing...
+
+change : bug 2 fixing.
