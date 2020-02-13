@@ -4,7 +4,7 @@ welcome to git..
 
 
 
-Change: login feature
+Change : login feature
 Change : bug fixing...
 
 
@@ -13,3 +13,4 @@ Change : from team mate from remote repo
 
 Change : bug 2 fixing.
 
+Change : to test rebase and this is from team mate 
